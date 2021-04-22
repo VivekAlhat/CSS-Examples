@@ -1,2 +1,1 @@
-# CSS-Components
-CSS components collection
+# CSS-Examples 
